@@ -1,3 +1,4 @@
+<?php
 <html>
 <title> jkanTech</title>
 
@@ -5,3 +6,4 @@
 
 
 </html>
+?>
